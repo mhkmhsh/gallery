@@ -11,4 +11,15 @@ h1 {
 body {
 
 background-color: #dcdba8;
+font-family: 'Bad Script', cursive;
+font-size: large;
+font-weight: bold;
+color: #49382b;
+}
+
+#desc{
+  background-color: #a1b294;
+}
+#footer{
+  
 }
