@@ -1,5 +1,14 @@
 .bg-hero-image{
-    background-image: url('https://picsum.photos/seed/picsum/200/300');
-background-position: center center;
+    background-image: url('images/wallpaper.jpg');
+background-position: center center ;
+background-size: cover;
+}
+h1 { 
+    font-family: 'Vidaloka', serif;
+  color: #cfd6d5;
+}
 
+body {
+
+background-color: #dcdba8;
 }
